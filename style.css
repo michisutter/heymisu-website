@@ -44,7 +44,8 @@ picture img {
     height: 8%;
   }
 }
+
 /* DEBUGGING: Highlight the email link area */
-.email-link {
+/*.email-link {
   background: rgba(255, 0, 0, 0.3);
-}
+}*/
