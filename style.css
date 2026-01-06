@@ -28,24 +28,24 @@ picture img {
 /* Invisible email link (DESKTOP default) */
 .email-link {
   position: absolute;
-  left: 35%;
-  top: 70%;
-  width: 30%;
-  height: 6%;
+  left: 20%;
+  top: 91%;
+  width: 0%;
+  height: 0%;
   cursor: pointer;
 }
 
 /* MOBILE adjustment */
 @media (max-width: 768px) {
   .email-link {
-    left: 20%;
-    top: 75%;
-    width: 60%;
-    height: 8%;
+    left: 30%;
+    top: 80%;
+    width: 0%;
+    height: 0%;
   }
 }
 
 /* DEBUGGING: Highlight the email link area */
-/*.email-link {
+.email-link {
   background: rgba(255, 0, 0, 0.3);
-}*/
+}
